@@ -14,3 +14,6 @@
 > 10. [useReducer](https://react.vlpt.us/basic/20-useReducer.html)
 > 11. [커스텀 Hook](https://react.vlpt.us/basic/21-custom-hook.html)
 > 12. [Immer](https://react.vlpt.us/basic/23-immer.html)
+> 13. [클래스형 컴포넌트](https://react.vlpt.us/basic/24-class-component.html)  
+      [LifeCycle Method](https://react.vlpt.us/basic/25-lifecycle.html)  
+      [ComponentDidCatch](https://react.vlpt.us/basic/26-componentDidCatch-and-sentry.html)  
